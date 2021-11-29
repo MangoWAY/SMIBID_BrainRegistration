@@ -1,4 +1,4 @@
-# The repo is for Synthetic Modality-Independent Brain Image Dataset (SMIBID)
+# The repo is for Nonfinite-Modality Data Augmentation for Brain Image Registration (SMIBID)
 
 ## Description
 This dataset is mainly for brain image registration tasks (may be used for other tasks, e.g., segmentation...). We used the whole-brain segmentation masks to generate modality-independent brain images and trained a VAE to generate the deformation vector field. We can use the dataset to augment real datasets. Due to the limitation of upload files, the data is part of our whole dataset. If you need the whole dataset, please use git issues to contact with me or you can use the code to generate your dataset.
@@ -38,7 +38,7 @@ python Demo.py
 - vanilla_vae.py is the VAE model
 
 ## Cite
-Now the paper is under review (BMVC2021)
+Now the paper is under review (Journal of Biomedical and Health Informatics)
 
 ## Acknowledgement
 - https://github.com/AntixK/PyTorch-VAE
