@@ -37,9 +37,6 @@ python Demo.py
 - utils.py contains tool method
 - vanilla_vae.py is the VAE model
 
-## Cite
-Now the paper has been submitted to JBHI (Journal of Biomedical and Health Informatics).
-
 ## Acknowledgement
 - https://github.com/AntixK/PyTorch-VAE
 - https://github.com/voxelmorph/voxelmorph
